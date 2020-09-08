@@ -64,9 +64,9 @@
             this.lblRes.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblRes.Location = new System.Drawing.Point(96, 239);
             this.lblRes.Name = "lblRes";
-            this.lblRes.Size = new System.Drawing.Size(41, 13);
+            this.lblRes.Size = new System.Drawing.Size(19, 13);
             this.lblRes.TabIndex = 2;
-            this.lblRes.Text = "label3";
+            this.lblRes.Text = "...";
             this.lblRes.Click += new System.EventHandler(this.lblRes_Click);
             // 
             // btnConsultar
